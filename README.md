@@ -5,7 +5,7 @@ Basic Hardhat Project
 2. Cd into it and type npm install, to run dependencies.
 3. Creat a *secret.json* file to hold your accounts and app id.
 4. Run the following codes to complie and deploy your contract.  
-npx hardhat accounts  
+> npx hardhat accounts  
 npx hardhat clean  
 npx hardhat compile  
 npx hardhat test  
