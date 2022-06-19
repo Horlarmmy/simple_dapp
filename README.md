@@ -9,7 +9,7 @@ Basic Hardhat Project
 npx hardhat clean  
 npx hardhat compile  
 npx hardhat test  
-node script/sample-script.js  
+node scripts/sample-script.js  
 
 ##### Your contract has been deployed to testnet
 
