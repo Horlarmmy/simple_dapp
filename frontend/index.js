@@ -1,5 +1,5 @@
 const provider = new ethers.providers.Web3Provider(window.ethereum);
-const greeterAddress = "0x1dFd42794eCFe2689555dDf381766ABe6A4fb112"; 
+const greeterAddress = "0xf482884ad4ff278d783533579b17728cadd6ac43"; 
 
 const greeterABI = [
     {
